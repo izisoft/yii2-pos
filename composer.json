@@ -30,7 +30,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"izi\\dev\\" : ""
+			"izi\\dev\\" : "src"
 		}
 	},
 	"homepage" : "https://iziweb.net"
